@@ -1,4 +1,4 @@
-### Hey 👋, I'm Zephyr.
+### Hey 👋, I'm Vu Phong but you can call me Dylan.
 
 <a href="https://github.com/VuPhong258">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" />
